@@ -1,4 +1,4 @@
-Timestamps,temperature_C,depth_m,static_level_masl
+Timestamps,Piezometer_NA_temperature_degreeC,Piezometer_NA_groundwater-depth_m,Piezometer_NA_groundwater-level_masl
 2024-11-10,6.304791666666667,0.6077979166666667,3827.8912020833336
 2024-11-11,7.196282608695652,0.6134710144927537,3827.885528985507
 2024-11-12,7.124958333333333,0.62055,3827.8784499999997
